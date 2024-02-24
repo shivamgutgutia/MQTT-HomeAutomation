@@ -49,4 +49,5 @@ The simulation demonstrates how you can control home appliances from your phone 
 ## Authors
 
 - [@shivamgutgutia](https://www.github.com/shivamgutgutia)
+- [@suvosibanerjee](https://www.github.com/suvosibanerjee)
 
